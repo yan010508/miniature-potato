@@ -1,0 +1,206 @@
+body {
+    font-family: 'Maven Pro', sans-serif;
+    background: rgb(255, 255, 255);
+    background-image: linear-gradient(to bottom, transparent 0%, black 120%), url(Design\ sem\ nome\ \(1\).png);
+}
+
+header {
+    padding: 20px 0;
+}
+
+.caixa {
+    background-image: linear-gradient(to bottom, transparent 0%, black 120%), url(Design\ sem\ nome.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+nav {
+    position: absolute;
+    top: 150px;
+    right: 0;
+}
+
+
+nav ul {
+    list-style: none;
+    margin: 45px 70px 0 15px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 14px;
+}
+
+nav a:hover {
+    color: #007694;
+    text-decoration: underline;
+}
+
+form {
+    margin: 40px 0;
+}
+
+form label,
+form legend {
+    display: block;
+    font-size: 20 px;
+    margin: 0 0 10;
+}
+
+main {
+    background-image: linear-gradient(to bottom, transparent 0%, black 120%), url(Design\ sem\ nome\ \(5\).png);
+}
+
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+}
+
+.mapa {
+    padding: 3em 0;
+    width: 100%;
+}
+
+.mapa-conteudo {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.mapa p {
+    margin: 0 0 2em;
+    text-align: center;
+}
+
+.apapa {
+    font-weight: bold;
+}
+
+.Copyright {
+    color: #ffffff;
+    font-size: 13px;
+    padding: 0 846px 48px;
+}
+
+.imagem {
+    padding: 0 0 0 42%;
+
+}
+
+.final {
+    background-image: linear-gradient(to bottom, transparent 0%, black 120%), url(Design\ sem\ nome\ \(5\).png);
+}
+
+.cardapio {
+    width: 940px;
+    background: rgb(125, 58, 58);
+    border: 50px;
+    margin: 0 200px 0 450px;
+}
+
+.cardapio ul {
+    padding: 20px;
+}
+
+.cardapio li {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.cardapio p {
+    clear: left;
+    color: rgba(255, 253, 253, 0.5);
+}
+
+.tipo {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Croissant One', serif;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+}
+
+hr {
+    width: 33%;
+}
+
+.ifood {
+    width: 200px;
+    height: 120px;
+    position: absolute;
+    margin: 65px 25%;
+}
+
+.aiq {
+    width: 200px;
+    height: 120px;
+    position: absolute;
+    margin: 65px 10%;
+}
+
+p,
+h1,
+h2,
+h3 {
+    color: #ffffff;
+}
+
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+    border: 1;
+}
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000;
+    border-radius: 20px;
+    background: #ffffff;
+}
+
+
+
+.produtos h2 {
+    color: #a02828;
+    font-weight: bold;
+}
+
+.nati,
+.yan,
+.nati2 {
+    color: #000;
+}
+
+.pagamento {
+    padding: 0 0 0 770px;
+}
+
+.vermelho {
+    font-size: 30px;
+    color: red;
+    font-family: 'Croissant One', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.preto {
+    font-size: 25px;
+    font-weight: bold;
+}
